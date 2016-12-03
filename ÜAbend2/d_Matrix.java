@@ -1,5 +1,5 @@
 
-public class ÜAbend2_d_Matrix {
+public class d_Matrix {
 
 	public static void main(String[] args) {
 

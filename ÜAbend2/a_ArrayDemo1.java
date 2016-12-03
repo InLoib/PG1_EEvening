@@ -1,5 +1,5 @@
 
-public class ÜAbend2_a_ArrayDemo1 {
+public class a_ArrayDemo1 {
 
 	
 /*What to do:

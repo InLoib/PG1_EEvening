@@ -1,5 +1,5 @@
 
-public class ÜAbend2_b_ArrayDemo2 {
+public class b_ArrayDemo2 {
 	
 	//ich will die Summe aller Zahlen im Array ausgeben.
 

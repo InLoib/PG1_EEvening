@@ -1,5 +1,5 @@
 
-public class ÜAbend1_d_Wuerfelspiel {
+public class d_Wuerfelspiel {
 
 	public static void main(String[] args) {
 				

@@ -1,5 +1,5 @@
 
-public class ÜAbend1_b_TurmDemo {
+public class b_TurmDemo {
 
 	public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 
-public class ÜAbend2_c_ArrayDemo3 {
+public class c_ArrayDemo3 {
 
 	/*Array ist: [7,8,12,13,27]
 	 * wir wollen jetzt ein ganzes Array aus einer Mothode heraus returnieren.

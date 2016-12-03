@@ -1,5 +1,5 @@
 
-public class ÜAbend1_a_Winterreifen {
+public class a_Winterreifen {
 
 	public static void main(String[] args) {
 	
